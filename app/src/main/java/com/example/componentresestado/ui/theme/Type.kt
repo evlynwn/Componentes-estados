@@ -9,7 +9,7 @@ import androidx.compose.ui.unit.sp
 import com.example.componentresestado.R
 
 val Kaushan = FontFamily(
-    Font(R.font.kaushan_Script_Regular)
+    Font(R.font.kaushan_script_regular)
 )
 // Set of Material typography styles to start with
 val Typography = Typography(
